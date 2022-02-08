@@ -31,3 +31,17 @@ Please remember that each time, when you open new terminal window, you will need
 ```
 source ~/[your_workspace]/devel/setup.sh
 ```
+
+## How to use. ##
+
+Run the following commands below.
+
+In Terminal 1:
+```
+roscore
+```
+
+In Terminal 2:
+```
+roslaunch husarion_joy joy_teleop.launch
+```
