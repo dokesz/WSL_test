@@ -3,7 +3,7 @@ Husarion RosBot 2.0 Pro auxiliaries e.g. joystick
 
 ## Installation. ## 
 
-We assume that you are working on Ubuntu 18.04 and already have installed ROS Melodic. If not, follow the [ROS install guide](http://wiki.ros.org/kinetic/Installation/Ubuntu)
+We assume that you are working on Ubuntu 18.04 and already have installed ROS Melodic. If not, follow the [ROS install guide](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
 Prepare the repository:
 ```
